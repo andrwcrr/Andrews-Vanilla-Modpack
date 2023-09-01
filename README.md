@@ -8,7 +8,7 @@
 </center>
 <h2 id="purpose">Purpose</h2>
 <p>This modpack aims to provide a performant vanilla minecraft experience embellished by various quality of life and useful features including, but not limited to, shader support and schematic loading respectively.</p>
-<h3 id="contents">Contents</h3>
+<h2 id="contents">Contents</h2>
 <details>
    <summary>Mods</summary>
    <ul>
