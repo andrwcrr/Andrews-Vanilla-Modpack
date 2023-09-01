@@ -148,25 +148,33 @@ HoeFix
 </ul>
 <details>
    <summary>Notes</summary>
-   <details>
-      <summary>Overwritten key binds</summary>
-      <ul>
-         <li>
-            Minecraft options
-            <details>
-               <summary><code>.minecraft\config\yosbr\options.txt</code></summary>
-               <pre><code>key_key.socialInteractions:key.keyboard.u
+   <ul>
+      <li>
+         <details>
+            <summary>Overwritten key binds</summary>
+            <ul>
+               <li>
+                  Minecraft options
+                  <ul>
+                     <li>
+                        <details>
+                           <summary><code>.minecraft\config\yosbr\options.txt</code></summary>
+                           <pre><code>key_key.socialInteractions:key.keyboard.u
 key_key.saveToolbarActivator:key.keyboard.b
 key_key.advancements:key.keyboard.n
 key_iris.keybind.reload:key.keyboard.p
 </code></pre>
-            </details>
-         </li>
-         <li>
-            <a href="https://www.curseforge.com/minecraft/mc-mods/litematica">Litematica</a>
-            <details>
-               <summary><code>.minecraft\config\yosbr\config\litematica.json</code></summary>
-               <pre><code>{
+                        </details>
+                     </li>
+                  </ul>
+               </li>
+               <li>
+                  <a href="https://www.curseforge.com/minecraft/mc-mods/litematica">Litematica</a>
+                  <ul>
+                     <li>
+                        <details>
+                           <summary><code>.minecraft\config\yosbr\config\litematica.json</code></summary>
+                           <pre><code>{
   <span class="hljs-attr">"Hotkeys"</span>: {
     <span class="hljs-attr">"addSelectionBox"</span>: {
       <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,A"</span>
@@ -216,13 +224,16 @@ key_iris.keybind.reload:key.keyboard.p
   }
 }
 </code></pre>
-            </details>
-         </li>
-         <li>
-            <a href="https://www.curseforge.com/minecraft/mc-mods/malilib">MaLiLib</a>
-            <details>
-               <summary><code>.minecraft\config\yosbr\config\malilib.json</code></summary>
-               <pre><code>{
+                        </details>
+                     </li>
+                  </ul>
+               <li>
+                  <a href="https://www.curseforge.com/minecraft/mc-mods/malilib">MaLiLib</a>
+                  <ul>
+                     <li>
+                        <details>
+                           <summary><code>.minecraft\config\yosbr\config\malilib.json</code></summary>
+                           <pre><code>{
   <span class="hljs-attr">"Generic"</span>: {
     <span class="hljs-attr">"openGuiConfigs"</span>: {
       <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"G,C"</span>
@@ -230,13 +241,16 @@ key_iris.keybind.reload:key.keyboard.p
   }
 }
 </code></pre>
-            </details>
-         </li>
-         <li>
-            <a href="https://www.curseforge.com/minecraft/mc-mods/minihud">MiniHUD</a>
-            <details>
-               <summary><code>.minecraft\config\yosbr\config\minihud.json</code></summary>
-               <pre><code>{
+                        </details>
+                     </li>
+                  </ul>
+               <li>
+                  <a href="https://www.curseforge.com/minecraft/mc-mods/minihud">MiniHUD</a>
+                  <ul>
+                     <li>
+                        <details>
+                           <summary><code>.minecraft\config\yosbr\config\minihud.json</code></summary>
+                           <pre><code>{
   <span class="hljs-attr">"RendererHotkeys"</span>: {
     <span class="hljs-attr">"overlayLightLevel"</span>: {
       <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"LEFT_CONTROL,L"</span>
@@ -244,13 +258,16 @@ key_iris.keybind.reload:key.keyboard.p
   }
 }
 </code></pre>
-            </details>
-         </li>
-         <li>
-            <a href="https://www.curseforge.com/minecraft/mc-mods/tweakeroo">Tweakeroo</a>
-            <details>
-               <summary><code>.minecraft\config\yosbr\config\tweakeroo.json</code></summary>
-               <pre><code>{
+                        </details>
+                     </li>
+                  </ul>
+               <li>
+                  <a href="https://www.curseforge.com/minecraft/mc-mods/tweakeroo">Tweakeroo</a>
+                  <ul>
+                     <li>
+                        <details>
+                           <summary><code>.minecraft\config\yosbr\config\tweakeroo.json</code></summary>
+                           <pre><code>{
   <span class="hljs-attr">"GenericHotkeys"</span>: {
     <span class="hljs-attr">"zoomActivate"</span>: {
       <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"C"</span>
@@ -272,17 +289,22 @@ key_iris.keybind.reload:key.keyboard.p
   }
 }
 </code></pre>
-            </details>
-         </li>
-      </ul>
-   </details>
-   <details>
-      <summary>Versioning</summary>
-      <p>The versioning for this modpack is in the form <code>mod loader-minecraft version-modpack version</code>, where <code>modpack version</code> is in the form <code>x.y.z</code>.<br>Where:</p>
-      <ul>
-         <li><code>x</code> refers to a mod list revision.</li>
-         <li><code>y</code> refers to a config revision.</li>
-         <li><code>z</code> refers to a mod version revision.</li>
-      </ul>
-   </details>
+                        </details>
+                     </li>
+                  </ul>
+            </ul>
+         </details>
+      </li>
+      <li>
+         <details>
+            <summary>Versioning</summary>
+            <p>The versioning for this modpack is in the form <code>mod loader-minecraft version-modpack version</code>, where <code>modpack version</code> is in the form <code>x.y.z</code>.<br>Where:</p>
+            <ul>
+               <li><code>x</code> refers to a mod list revision.</li>
+               <li><code>y</code> refers to a config revision.</li>
+               <li><code>z</code> refers to a mod version revision.</li>
+            </ul>
+         </details>
+      </li>
+   </ul>
 </details>
