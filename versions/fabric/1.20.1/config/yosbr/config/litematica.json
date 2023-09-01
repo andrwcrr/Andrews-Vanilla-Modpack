@@ -1,0 +1,52 @@
+{
+  "Generic": {
+    "toolItemEnabled": false
+  },
+  "Hotkeys": {
+    "addSelectionBox": {
+      "keys": "L,A"
+    },
+    "layerModeNext": {
+      "keys": "L,PAGE_UP"
+    },
+    "layerModePrevious": {
+      "keys": "L,PAGE_DOWN"
+    },
+    "openGuiMainMenu": {
+      "keys": "L"
+    },
+    "openGuiMaterialList": {
+      "keys": "L,M"
+    },
+    "openGuiSchematicPlacements": {
+      "keys": "L,P"
+    },
+    "openGuiSchematicVerifier": {
+      "keys": "L,V"
+    },
+    "openGuiSelectionManager": {
+      "keys": "L,S"
+    },
+    "openGuiSettings": {
+      "keys": "L,C"
+    },
+    "pickBlockToggle": {
+      "keys": "L,BUTTON_3"
+    },
+    "rerenderSchematic": {
+      "keys": "F3,L"
+    },
+    "selectionModeCycle": {
+      "keys": "LEFT_CONTROL,L"
+    },
+    "toggleAllRendering": {
+      "keys": "L,R"
+    },
+    "toggleSchematicRendering": {
+      "keys": "L,G"
+    },
+    "toolEnabledToggle": {
+      "keys": "L,T"
+    }
+  }
+}
