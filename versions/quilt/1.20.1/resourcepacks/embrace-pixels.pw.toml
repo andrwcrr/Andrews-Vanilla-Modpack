@@ -1,0 +1,13 @@
+name = "Embrace Pixels"
+filename = "Embrace Pixels 2.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wpQSS5ZP/versions/m6Q2xbFT/Embrace%20Pixels%202.1.zip"
+hash-format = "sha1"
+hash = "2189be1996a51dccca55e0840df96a13534ac135"
+
+[update]
+[update.modrinth]
+mod-id = "wpQSS5ZP"
+version = "m6Q2xbFT"

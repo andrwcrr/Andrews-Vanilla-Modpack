@@ -1,0 +1,36 @@
+{
+  "Generic": {
+    "customInventoryGuiScale": 3,
+    "gammaOverrideValue": 32.0,
+    "zoomFov": 25.0
+  },
+  "GenericHotkeys": {
+    "zoomActivate": {
+      "keys": "C"
+    }
+  },
+  "Internal": {
+    "gammaValueOriginal": 1.0
+  },
+  "TweakToggles": {
+    "tweakChatTimestamp": true,
+    "tweakMapPreview": true,
+    "tweakPrintDeathCoordinates": true,
+    "tweakShulkerBoxDisplay": true,
+    "tweakZoom": true
+  },
+  "TweakHotkeys": {
+    "tweakFreeCamera": {
+      "keys": "LEFT_CONTROL,F"
+    },
+    "tweakGammaOverride": {
+      "keys": "LEFT_CONTROL,G"
+    },
+    "tweakHoldUse": {
+      "keys": "LEFT_CONTROL,H,U"
+    },
+    "tweakPeriodicAttack": {
+      "keys": "LEFT_CONTROL,P,A"
+    }
+  }
+}
