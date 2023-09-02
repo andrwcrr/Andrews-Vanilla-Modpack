@@ -7,7 +7,7 @@
    </p>
 </center>
 <h2 id="purpose">Purpose</h2>
-<p>This modpack aims to provide a performant vanilla minecraft experience embellished by various quality of life and useful features including, but not limited to, shader support and schematic loading respectively.</p>
+<p>This modpack aims to provide a performant vanilla Minecraft experience embellished by various quality-of-life and useful features, including, but not limited to, shader support and schematic loading.</p>
 <h2 id="contents">Contents</h2>
 <details>
    <summary>Mods</summary>
@@ -138,7 +138,7 @@ HoeFix
    </ul>
 </details>
 <h2 id="why-should-you-use-this-modpack-">Why should you use this modpack?</h2>
-<p>If you are my friend then you should use this because I made this for you. Otherwise, if this combination of mods and features suits your needs I am happy to share this modpack with you. Note that this modpack does not support all OptiFine features. If that is what you are after then look no further than one of <a href="https://modrinth.com/user/Devin">Devin</a>&#39;s modpacks <a href="https://modrinth.com/modpack/additive">Additive</a>.</p>
+<p>If you are my friend, then you should use this because I made this for you. Otherwise, if this combination of mods and features suits your needs, I am happy to share this modpack with you. Please note that this modpack does not support all OptiFine features. If that is what you are after, then look no further than one of <a href="https://modrinth.com/user/Devin">Devin</a>&#39;s modpacks, <a href="https://modrinth.com/modpack/additive">Additive</a>.</p>
 <h2 id="credits">Credits</h2>
 <ul>
    <li><a href="https://modrinth.com/user/HyperSoop">HyperSoop</a> - A very slightly edited version of their <a href="https://modrinth.com/modpack/sop">Simply Optimized</a> modpack is used to provide the performance improvements in this modpack.</li>
