@@ -1,6 +1,8 @@
+<p align="center">
+   <img align="middle"src="https://raw.githubusercontent.com/andrwcrr/Andrews-Vanilla-Modpack/main/images/banner.png" alt="banner">
+<hr>
+</p>
 <center>
-   <img src="https://raw.githubusercontent.com/andrwcrr/Andrews-Vanilla-Modpack/main/images/banner.png" alt="banner">
-   <hr>
    <p align="center"><a href="https://modrinth.com/modpack/sop"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/simply-optimized_vector.svg" alt="simply-optimized"></a>
       <a href="https://fabricmc.net/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg" alt="fabric"></a>
       <a href="https://quiltmc.org/"><img alt="quilt" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg"></a>
