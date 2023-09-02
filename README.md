@@ -1,5 +1,5 @@
 <p align="center">
-   <img align="middle"src="https://raw.githubusercontent.com/andrwcrr/Andrews-Vanilla-Modpack/main/images/banner.png" alt="banner">
+   <img src="" alt="banner">
 <hr>
 </p>
 <center>
