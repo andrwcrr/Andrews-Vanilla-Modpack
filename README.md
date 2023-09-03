@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="" alt="Andrew's Vanilla Modpack">
+   <img src="https://github.com/andrwcrr/Andrews-Vanilla-Modpack/blob/main/images/banner.png" alt="Andrew's Vanilla Modpack">
 <hr>
 </p>
 <center>
