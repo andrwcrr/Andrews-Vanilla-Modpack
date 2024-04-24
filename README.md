@@ -5,309 +5,98 @@
 <center>
    <p align="center"><a href="https://modrinth.com/modpack/sop"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/simply-optimized_vector.svg" alt="simply-optimized"></a>
       <a href="https://fabricmc.net/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg" alt="fabric"></a>
-      <a href="https://quiltmc.org/"><img alt="quilt" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg"></a>
       <a href="https://modrinth.com/modpack/avm"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
    </p>
 </center>
-<h2 id="purpose">Purpose</h2>
-<p>This modpack aims to provide a performant vanilla Minecraft experience embellished by various quality-of-life and useful features, including, but not limited to, shader support and schematic loading.</p>
-<h2 id="contents">Contents</h2>
+
+## Purpose
+
+This modpack aims to provide a performant vanilla Minecraft experience embellished by various quality-of-life and useful features.
+
+## Contents (Latest Minecraft version)
+
 <details>
-   <summary>Mods</summary>
-   <ul>
-      <li><a href="https://modrinth.com/mod/better-mount-hud">Better Mount HUD</a></li>
-      <li><a href="https://modrinth.com/mod/bobby">Bobby</a></li>
-      <li><a href="https://modrinth.com/mod/borderless-mining">Borderless Mining</a></li>
-      <li><a href="https://modrinth.com/mod/carpet">Carpet</a></li>
-      <li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a></li>
-      <li><a href="https://modrinth.com/mod/c2me-fabric">Concurrent Chunk Management Engine (Fabric)</a></li>
-      <li><a href="https://modrinth.com/mod/debugify">Debugify</a></li>
-      <li><a href="https://modrinth.com/mod/ebe">Enhanced Block Entities</a></li>
-      <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a></li>
-      <li><a href="https://modrinth.com/mod/fabric-api">Fabric API</a> (only in fabric versions)</li>
-      <li><a href="https://modrinth.com/mod/fabric-language-kotlin">Fabric Language Kotlin</a> (only in fabric versions)</li>
-      <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a></li>
-      <li><a href="https://modrinth.com/mod/fix-keyboard-on-linux">Fix Keyboard on Linux</a></li>
-      <li><a href="https://modrinth.com/mod/hold-that-chunk">Hold That Chunk</a></li>
-      <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a></li>
-      <li><a href="https://modrinth.com/mod/indium">Indium</a></li>
-      <li><a href="https://modrinth.com/mod/inventory-profiles-next">Inventory Profiles Next</a></li>
-      <li><a href="https://modrinth.com/mod/iris">Iris Shaders</a></li>
-      <li><a href="https://modrinth.com/mod/krypton">Krypton</a></li>
-      <li><a href="https://modrinth.com/mod/lambdynamiclights">LambDynamicLights</a></li>
-      <li><a href="https://modrinth.com/mod/libipn">libIPN</a></li>
-      <li><a href="https://www.curseforge.com/minecraft/mc-mods/litematica">Litematica</a></li>
-      <li><a href="https://modrinth.com/mod/lithium">Lithium</a></li>
-      <li><a href="https://www.curseforge.com/minecraft/mc-mods/malilib">MaLiLib</a></li>
-      <li><a href="https://www.curseforge.com/minecraft/mc-mods/minihud">MiniHUD</a></li>
-      <li><a href="https://modrinth.com/mod/modmenu">Mod Menu</a></li>
-      <li><a href="https://modrinth.com/mod/modelfix">Model Gap Fix</a></li>
-      <li><a href="https://modrinth.com/mod/modernfix">ModernFix</a></li>
-      <li><a href="https://modrinth.com/mod/moreculling">More Culling</a></li>
-      <li><a href="https://modrinth.com/mod/no-chat-reports">No Chat Reports</a></li>
-      <li><a href="https://modrinth.com/mod/qkl">Quilt Kotlin Libraries (QKL)</a> (only in Quilt versions)</li>
-      <li><a href="https://modrinth.com/mod/qsl">Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)</a> (only in Quilt versions)</li>
-      <li><a href="https://modrinth.com/mod/reeses-sodium-options">Reese&#39;s Sodium Options</a></li>
-      <li><a href="https://modrinth.com/mod/sodium">Sodium</a></li>
-      <li><a href="https://modrinth.com/mod/sodium-extra">Sodium Extra</a></li>
-      <li><a href="https://modrinth.com/mod/starlight">Starlight (Fabric)</a></li>
-      <li><a href="https://modrinth.com/mod/threadtweak">ThreadTweak</a></li>
-      <li><a href="https://www.curseforge.com/minecraft/mc-mods/tweakeroo">Tweakeroo</a></li>
-      <li><a href="https://modrinth.com/mod/vmp-fabric">Very Many Players (Fabric)</a></li>
-      <li><a href="https://modrinth.com/mod/world-host">World Host</a></li>
-      <li><a href="https://modrinth.com/mod/yacl">YetAnotherConfigLib</a></li>
-      <li><a href="https://modrinth.com/mod/yosbr">Your Options Shall Be Respected (YOSBR)</a></li>
-   </ul>
+   <summary>Mods (54)</summary>
+
+- [Animatica](https://modrinth.com/mod/animatica)
+- [BadOptimizations](https://modrinth.com/mod/badoptimizations)
+- [Bobby](https://modrinth.com/mod/bobby)
+- [Capes](https://modrinth.com/mod/capes)
+- [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+- [Cloth Config API](https://modrinth.com/mod/cloth-config)
+- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
+- [Continuity](https://modrinth.com/mod/continuity)
+- [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe)
+- [Entity Model Features](https://modrinth.com/mod/entity-model-features)
+- [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+- [Entity Culling](https://modrinth.com/mod/entityculling)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+- [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes)
+- [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux)
+- [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+- [Indium](https://modrinth.com/mod/indium)
+- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
+- [Iris Shaders](https://modrinth.com/mod/iris)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+- [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone)
+- [libIPN](https://modrinth.com/mod/libipn)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [MacOS Input Fixes](https://modrinth.com/mod/macos-input-fixes/versions)
+- [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
+- [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
+- [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [Model Gap Fix](https://modrinth.com/mod/modelfix)
+- [ModernFix](https://modrinth.com/mod/modernfix)
+- [More Culling](https://modrinth.com/mod/moreculling)
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [Noisium](https://modrinth.com/mod/noisium)
+- [Nvidium](https://modrinth.com/mod/nvidium)
+- [OptiGUI](https://modrinth.com/mod/optigui)
+- [Polytone](https://modrinth.com/mod/polytone)
+- [Puzzle](https://modrinth.com/mod/puzzle)
+- [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+- [Sodium](https://modrinth.com/mod/sodium)
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+- [ThreadTweak](https://modrinth.com/mod/threadtweak)
+- [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
+- [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)
+- [World Host](https://modrinth.com/mod/world-host)
+- [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
+- [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
+- [Zume](https://modrinth.com/mod/zume)
 </details>
+
 <details>
-   <summary>Shader</summary>
-   <ul>
-      <li>
-         <a href="https://modrinth.com/shader/complementary-reimagined">Complementary Reimagined</a>
-         <ul>
-            <li>
-               <details>
-                  <summary><code>.minecraft\shaderpacks\ComplementaryReimagined_r2.3.zip.txt</code></summary>
-                  <pre><code><span class="hljs-attr">VIGNETTE_R</span>=<span class="hljs-literal">false</span>
-<span class="hljs-attr">WAVING_WATER_VERTEX</span>=<span class="hljs-literal">false</span>
-<span class="hljs-attr">CLOUD_STYLE_DEFINE</span>=<span class="hljs-number">50</span>
-<span class="hljs-attr">WAVING_LEAVES</span>=<span class="hljs-literal">true</span>
-<span class="hljs-attr">WATER_STYLE_DEFINE</span>=<span class="hljs-number">1</span>
-<span class="hljs-attr">RP_MODE</span>=<span class="hljs-number">3</span>
-<span class="hljs-attr">RAIN_PUDDLES</span>=<span class="hljs-number">1</span>
-<span class="hljs-attr">ENTITY_SHADOWS</span>=<span class="hljs-literal">true</span>
-<span class="hljs-attr">XLIGHT_R</span>=<span class="hljs-number">2.00</span>
-<span class="hljs-attr">SUN_ANGLE</span>=-<span class="hljs-number">20</span>
-<span class="hljs-attr">POM</span>=<span class="hljs-literal">false</span>
-<span class="hljs-attr">WATER_FOAM_I</span>=<span class="hljs-number">0</span>
-<span class="hljs-attr">ATM_FOG_MULT</span>=<span class="hljs-number">0.50</span>
-<span class="hljs-attr">T_VIBRANCE</span>=<span class="hljs-number">1.10</span>
-<span class="hljs-attr">SHADOW_QUALITY</span>=<span class="hljs-number">1</span>
-<span class="hljs-attr">PIXEL_SHADOW</span>=<span class="hljs-number">16</span>
-<span class="hljs-attr">CLOUD_CLOSED_AREA_CHECK</span>=<span class="hljs-literal">false</span>
-<span class="hljs-attr">WATER_CAUSTIC_STYLE_DEFINE</span>=<span class="hljs-number">1</span>
-<span class="hljs-attr">XLIGHT_G</span>=<span class="hljs-number">2.00</span>
-<span class="hljs-attr">XLIGHT_B</span>=<span class="hljs-number">2.00</span>
-<span class="hljs-attr">BLOOM_STRENGTH</span>=<span class="hljs-number">0.027</span>
-<span class="hljs-attr">WATERCOLOR_MODE</span>=<span class="hljs-number">2</span>
-</code></pre>
-               </details>
-            </li>
-         </ul>
-      </li>
-   </ul>
+  <summary>Shaders (1)</summary>
+
+- [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
+
 </details>
+
 <details>
-   <summary>Resource Packs</summary>
-   <ul>
-      <li><a href="https://modrinth.com/resourcepack/ebe-models-optimizedpack">EBE Models OptimizedPack</a></li>
-      <li><a href="https://modrinth.com/resourcepack/embrace-pixels">Embrace Pixels</a></li>
-      <li><a href="https://modrinth.com/resourcepack/more-cull-face-and-fixes">More Cull Face and Fixes</a></li>
-      <li><a href="https://www.curseforge.com/minecraft/texture-packs/no-z-fighting">No Z-Fighting</a></li>
-      <li>
-         <a href="https://vanillatweaks.net/picker/resource-packs/">Vanilla Tweaks</a>
-         <ul>
-            <li>
-               <details>
-                  <summary><code>.minecraft\resourcepacks\VanillaTweaks_r355741.zip\Selected Packs.txt</code></summary>
-                  <pre><code>Vanilla Tweaks Resource Pack
-Version: 1.20
-Packs:
-NoCaveSounds
-VisualWaxedCopperItems
-VisualInfestedStoneItems
-LowerFire
-LowerShield
-SmallerUtilities
-JappaObserver
-JappaToasts
-JappaStatsIcons
-JappaSpecIcons
-DripleafFixBig
-DripleafFixSmall
-ConsistentUIFix
-CactusBottomFix
-BlazeFix
-SlimeParticleFix
-ProperBreakParticles
-DoubleSlabFix
-ItemHoldFix
-HoeFix
-</code></pre>
-               </details>
-            </li>
-         </ul>
-      </li>
-   </ul>
+   <summary>Resource Packs (4)</summary>
+
+- [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
+- [No Z-Fighting](https://modrinth.com/resourcepack/no-z-fighting)
+- [SPBR](https://github.com/ShulkerSakura/SPBR)
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs)
+
 </details>
-<h2 id="why-should-you-use-this-modpack-">Why should you use this modpack?</h2>
-<p>If you are my friend, then you should use this because I made this for you. Otherwise, if this combination of mods and features suits your needs, I am happy to share this modpack with you. Please note that this modpack does not support all OptiFine features. If that is what you are after, then look no further than one of <a href="https://modrinth.com/user/Devin">Devin</a>&#39;s modpacks, <a href="https://modrinth.com/modpack/additive">Additive</a>.</p>
-<h2 id="credits">Credits</h2>
-<ul>
-   <li><a href="https://modrinth.com/user/HyperSoop">HyperSoop</a> - A very slightly edited version of their <a href="https://modrinth.com/modpack/sop">Simply Optimized</a> modpack is used to provide the performance improvements in this modpack.</li>
-   <li><a href="https://modrinth.com/user/EminGT">EminGT</a> - This modpack contains EminGT&#39;s <a href="https://modrinth.com/shader/complementary-reimagined">Complementary Reimagined</a> shader.</li>
-   <li><a href="https://modrinth.com/user/Minecraft_hyr">Minecraft_hyr</a> - This modpack contains an edited version of their <a href="https://modrinth.com/resourcepack/more-cull-face-and-fixes">More Cull Face and Fixes</a> resource pack.</li>
-   <li><a href="https://vanillatweaks.net/">Vanilla Tweaks</a> - This modpack includes a <a href="https://vanillatweaks.net/picker/resource-packs/">Vanilla Tweaks resource pack</a>.</li>
-</ul>
-<details>
-   <summary>Notes</summary>
-   <ul>
-      <li>
-         <details>
-            <summary>Overwritten key binds</summary>
-            <ul>
-               <li>
-                  Minecraft options
-                  <ul>
-                     <li>
-                        <details>
-                           <summary><code>.minecraft\config\yosbr\options.txt</code></summary>
-                           <pre><code>key_key.socialInteractions:key.keyboard.u
-key_key.saveToolbarActivator:key.keyboard.b
-key_key.advancements:key.keyboard.n
-key_iris.keybind.reload:key.keyboard.p
-</code></pre>
-                        </details>
-                     </li>
-                  </ul>
-               </li>
-               <li>
-                  <a href="https://www.curseforge.com/minecraft/mc-mods/litematica">Litematica</a>
-                  <ul>
-                     <li>
-                        <details>
-                           <summary><code>.minecraft\config\yosbr\config\litematica.json</code></summary>
-                           <pre><code>{
-  <span class="hljs-attr">"Hotkeys"</span>: {
-    <span class="hljs-attr">"addSelectionBox"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,A"</span>
-    },
-    <span class="hljs-attr">"layerModeNext"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,PAGE_UP"</span>
-    },
-    <span class="hljs-attr">"layerModePrevious"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,PAGE_DOWN"</span>
-    },
-    <span class="hljs-attr">"openGuiMainMenu"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L"</span>
-    },
-    <span class="hljs-attr">"openGuiMaterialList"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,M"</span>
-    },
-    <span class="hljs-attr">"openGuiSchematicPlacements"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,P"</span>
-    },
-    <span class="hljs-attr">"openGuiSchematicVerifier"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,V"</span>
-    },
-    <span class="hljs-attr">"openGuiSelectionManager"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,S"</span>
-    },
-    <span class="hljs-attr">"openGuiSettings"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,C"</span>
-    },
-    <span class="hljs-attr">"pickBlockToggle"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,BUTTON_3"</span>
-    },
-    <span class="hljs-attr">"rerenderSchematic"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"F3,L"</span>
-    },
-    <span class="hljs-attr">"selectionModeCycle"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"LEFT_CONTROL,L"</span>
-    },
-    <span class="hljs-attr">"toggleAllRendering"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,R"</span>
-    },
-    <span class="hljs-attr">"toggleSchematicRendering"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,G"</span>
-    },
-    <span class="hljs-attr">"toolEnabledToggle"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"L,T"</span>
-    }
-  }
-}
-</code></pre>
-                        </details>
-                     </li>
-                  </ul>
-               <li>
-                  <a href="https://www.curseforge.com/minecraft/mc-mods/malilib">MaLiLib</a>
-                  <ul>
-                     <li>
-                        <details>
-                           <summary><code>.minecraft\config\yosbr\config\malilib.json</code></summary>
-                           <pre><code>{
-  <span class="hljs-attr">"Generic"</span>: {
-    <span class="hljs-attr">"openGuiConfigs"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"G,C"</span>
-    }
-  }
-}
-</code></pre>
-                        </details>
-                     </li>
-                  </ul>
-               <li>
-                  <a href="https://www.curseforge.com/minecraft/mc-mods/minihud">MiniHUD</a>
-                  <ul>
-                     <li>
-                        <details>
-                           <summary><code>.minecraft\config\yosbr\config\minihud.json</code></summary>
-                           <pre><code>{
-  <span class="hljs-attr">"RendererHotkeys"</span>: {
-    <span class="hljs-attr">"overlayLightLevel"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"LEFT_CONTROL,L"</span>
-    }
-  }
-}
-</code></pre>
-                        </details>
-                     </li>
-                  </ul>
-               <li>
-                  <a href="https://www.curseforge.com/minecraft/mc-mods/tweakeroo">Tweakeroo</a>
-                  <ul>
-                     <li>
-                        <details>
-                           <summary><code>.minecraft\config\yosbr\config\tweakeroo.json</code></summary>
-                           <pre><code>{
-  <span class="hljs-attr">"GenericHotkeys"</span>: {
-    <span class="hljs-attr">"zoomActivate"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"C"</span>
-    }
-  },
-  <span class="hljs-attr">"TweakHotkeys"</span>: {
-    <span class="hljs-attr">"tweakFreeCamera"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"LEFT_CONTROL,F"</span>
-    },
-    <span class="hljs-attr">"tweakGammaOverride"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"LEFT_CONTROL,G"</span>
-    },
-    <span class="hljs-attr">"tweakHoldUse"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"LEFT_CONTROL,H,U"</span>
-    },
-    <span class="hljs-attr">"tweakPeriodicAttack"</span>: {
-      <span class="hljs-attr">"keys"</span>: <span class="hljs-string">"LEFT_CONTROL,P,A"</span>
-    }
-  }
-}
-</code></pre>
-                        </details>
-                     </li>
-                  </ul>
-            </ul>
-         </details>
-      </li>
-      <li>
-         <details>
-            <summary>Versioning</summary>
-            <p>The versioning for this modpack is in the form <code>mod loader-minecraft version-modpack version</code>, where <code>modpack version</code> is in the form <code>x.y.z</code>.<br>Where:</p>
-            <ul>
-               <li><code>x</code> refers to a mod list revision.</li>
-               <li><code>y</code> refers to a config revision.</li>
-               <li><code>z</code> refers to a mod version revision.</li>
-            </ul>
-         </details>
-      </li>
-   </ul>
-</details>
+
+## Credits
+
+- [HyperSoop](https://modrinth.com/user/HyperSoop) - A very slightly edited version of their [Simply Optimized](https://modrinth.com/modpack/sop) modpack is used to provide the performance improvements in this modpack.
+- [EminGT](https://modrinth.com/user/EminGT) - This modpack contains EminGT's [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) shader.
+- [Vanilla Tweaks](https://vanillatweaks.net/) - This modpack includes a [Vanilla Tweaks resource pack](https://vanillatweaks.net/picker/resource-packs/).
+
+---
+
+NB: Other versions of Minecraft may have different contents to what is listed above.
