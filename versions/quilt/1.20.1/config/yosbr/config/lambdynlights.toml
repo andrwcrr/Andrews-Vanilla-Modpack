@@ -1,4 +1,0 @@
-mode = "off"
-[light_sources]
-    tnt = "fancy"
-    creeper = "fancy"
