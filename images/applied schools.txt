@@ -1,0 +1,9 @@
+fit - documents required (csec/cape scores) admission@fit.edu
+george mason - accepted
+haverford - denied
+k-state - documents required (cape scores, sat scores, passport or government id) international@k-state.edu
+smcm - expired
+suny - documents required (sat scores, passport)
+vtech - accepted
+wesleyan - denied
+mount allison - documents required (transcript) admissionsteam@mta.ca
