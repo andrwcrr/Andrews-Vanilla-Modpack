@@ -1,12 +1,7 @@
-<p align="center">
-   <img src="https://raw.githubusercontent.com/andrwcrr/Andrews-Vanilla-Modpack/refs/heads/main/images/avm%20banner.png" alt="Andrew's Vanilla Modpack">
-<hr>
-</p>
 <center>
-   <p align="center"><a href="https://modrinth.com/modpack/sop"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/simply-optimized_vector.svg" alt="simply-optimized"></a>
-      <a href="https://fabricmc.net/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg" alt="fabric"></a>
-      <a href="https://modrinth.com/modpack/avm"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
-   </p>
+
+![Andrew's Vanilla Modpack](https://raw.githubusercontent.com/andrwcrr/Andrews-Vanilla-Modpack/refs/heads/main/images/avm%20banner.png)
+
 </center>
 
 ## Purpose
@@ -16,10 +11,9 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 ## Contents (from most recent complete fabric version)
 
 <details>
-   <summary>Mods (64)</summary>
+   <summary>Mods (60)</summary>
 
 - [Animatica](https://modrinth.com/mod/animatica)
-- [BadOptimizations](https://modrinth.com/mod/badoptimizations)
 - [Better Block Entities](https://modrinth.com/mod/better-block-entities)
 - [BetterGrassify](https://modrinth.com/mod/bettergrassify)
 - [Bobby](https://modrinth.com/mod/bobby)
@@ -27,8 +21,10 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
 - [Continuity](https://modrinth.com/mod/continuity)
+- [Crash Assistant](https://modrinth.com/mod/crash-assistant)
 - [CraterLib](https://modrinth.com/mod/craterlib)
 - [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)
+- [Cull Fewer Leaves](https://modrinth.com/mod/cull-fewer-leaves)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [e4mc](https://modrinth.com/mod/e4mc)
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features)
@@ -56,8 +52,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [MiniHUD](https://modrinth.com/mod/minihud)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [ModernFix-mVUS](https://modrinth.com/mod/modernfix-mvus)
-- [More Culling](https://modrinth.com/mod/moreculling)
-- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
 - [OptiGUI](https://modrinth.com/mod/optigui)
 - [Particle Core](https://modrinth.com/mod/particle-core)
 - [Ping View](https://modrinth.com/mod/ping-view)
@@ -65,7 +60,6 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Puzzle](https://modrinth.com/mod/puzzle)
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-- [RenderScale](https://modrinth.com/mod/renderscale)
 - [Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides)
 - [Resourcify](https://modrinth.com/mod/resourcify)
 - [ScalableLux](https://modrinth.com/mod/scalablelux)
@@ -78,10 +72,8 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 - [Too Many Shortcuts](https://modrinth.com/mod/too-many-shortcuts)
 - [Tweakeroo](https://modrinth.com/mod/tweakeroo)
-- [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 - [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
-- [Zume](https://modrinth.com/mod/zume)
 </details>
 
 <details>
@@ -101,15 +93,14 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs)
 
 </details>
+NB: Other versions of Minecraft may have different contents to what is listed above.
 
 ## Credits
 
-- [HyperSoop](https://modrinth.com/user/HyperSoop) - A very slightly edited version of their [Simply Optimized](https://modrinth.com/modpack/sop) modpack is used to provide the performance improvements in this modpack.
 - [EminGT](https://modrinth.com/user/EminGT) - This modpack contains EminGT's [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) shader.
 - [Vanilla Tweaks](https://vanillatweaks.net/) - This modpack includes a [Vanilla Tweaks resource pack](https://vanillatweaks.net/picker/resource-packs/).
 
 If this modpack contains any uncredited/miscredited content, or contains content that I have not sought permission for, please inform me by opening an [issue](https://github.com/andrwcrr/Andrews-Vanilla-Modpack/issues) so that I can resolve it.
 
 ---
-
-NB: Other versions of Minecraft may have different contents to what is listed above.
+[![adrenaline](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_64h.png)](https://modrinth.com/modpack/adrenaline)
