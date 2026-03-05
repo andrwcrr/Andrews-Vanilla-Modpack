@@ -103,4 +103,4 @@ NB: Other versions of Minecraft may have different contents to what is listed ab
 If this modpack contains any uncredited/miscredited content, or contains content that I have not sought permission for, please inform me by opening an [issue](https://github.com/andrwcrr/Andrews-Vanilla-Modpack/issues) so that I can resolve it.
 
 ---
-[![adrenaline](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_64h.png)](https://modrinth.com/modpack/adrenaline)
+[![adrenaline](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/adrenaline_vector.svg)](https://modrinth.com/modpack/adrenaline)
