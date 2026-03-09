@@ -1,6 +1,6 @@
 <center>
 
-![Andrew's Vanilla Modpack](https://raw.githubusercontent.com/andrwcrr/Andrews-Vanilla-Modpack/refs/heads/main/images/avm%20banner.png)
+![Andrew's Vanilla Modpack](https://raw.githubusercontent.com/andrwcrr/Salted-Caramel/refs/heads/main/images/sc%20banner.png)
 
 </center>
 
