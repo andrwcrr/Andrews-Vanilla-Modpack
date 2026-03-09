@@ -11,7 +11,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 ## Contents (from most recent complete fabric version)
 
 <details>
-   <summary>Mods (60)</summary>
+   <summary>Mods (61)</summary>
 
 - [Animatica](https://modrinth.com/mod/animatica)
 - [Better Block Entities](https://modrinth.com/mod/better-block-entities)
@@ -20,6 +20,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Cape Provider](https://modrinth.com/mod/cape-provider)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
+- [Config Manager](https://modrinth.com/mod/configmanager)
 - [Continuity](https://modrinth.com/mod/continuity)
 - [Crash Assistant](https://modrinth.com/mod/crash-assistant)
 - [CraterLib](https://modrinth.com/mod/craterlib)
@@ -42,6 +43,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
 - [Iris Shaders](https://modrinth.com/mod/iris)
+- [Ixeris](https://modrinth.com/mod/ixeris)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 - [libIPN](https://modrinth.com/mod/libipn)
 - [Lithium](https://modrinth.com/mod/lithium)
@@ -73,7 +75,6 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Too Many Shortcuts](https://modrinth.com/mod/too-many-shortcuts)
 - [Tweakeroo](https://modrinth.com/mod/tweakeroo)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
-- [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
 </details>
 
 <details>
