@@ -11,9 +11,11 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 ## Contents
 
 <details>
-   <summary>Mods (68)</summary>
+   <summary>Mods (67)</summary>
 
 - [Animatica Refabricated](https://modrinth.com/mod/animaticarefabricated)
+- [Async Logger](https://modrinth.com/mod/asynclogger)
+- [AsyncParticles](https://modrinth.com/mod/asyncparticles)
 - [Better Block Entities](https://modrinth.com/mod/better-block-entities)
 - [Bobby](https://modrinth.com/mod/bobby)
 - [Cape Provider](https://modrinth.com/mod/cape-provider)
@@ -39,9 +41,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [~~Fix Keyboard on Linux~~](https://modrinth.com/mod/fix-keyboard-on-linux)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
-- [Fzzy Config](https://modrinth.com/mod/fzzy-config)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
-- [Immersive Optimization](https://modrinth.com/mod/immersive-optimization)
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
 - [Iris Shaders](https://modrinth.com/mod/iris)
 - [Ixeris](https://modrinth.com/mod/ixeris)
@@ -59,7 +59,6 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [ModernFix-mVUS](https://modrinth.com/mod/modernfix-mvus)
 - [Ok Zoomer - It's Zoom!](https://modrinth.com/mod/ok-zoomer)
 - [OptiGUI](https://modrinth.com/mod/optigui)
-- [Particle Core](https://modrinth.com/mod/particle-core)
 - [Ping View](https://modrinth.com/mod/ping-view)
 - [~~Polytone~~](https://modrinth.com/mod/polytone)
 - [Puzzle](https://modrinth.com/mod/puzzle)
